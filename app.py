@@ -1,7 +1,7 @@
 import pickle
 import numpy as np
 import streamlit as st
-
+import sklearn
 # Page Configuration
 st.set_page_config(
     page_title="Sales Demand Prediction System", page_icon="📈", layout="centered"
